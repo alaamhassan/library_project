@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/dashboard-2.png</file>
+        <file>images/ProfileBackground.png</file>
+        <file>images/main_background.png</file>
+        <file>images/signIn_backgroun.png</file>
+        <file>images/infoCard_Button.png</file>
+        <file>images/user_Dashboard.png</file>
+        <file>images/user_profileBackground.png</file>
+    </qresource>
+</RCC>
